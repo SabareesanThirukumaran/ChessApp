@@ -11,3 +11,9 @@ This day was a whole lot of errors. Initally, I found difficulty getting my Visu
 This day I set up the directions of chess piece movements and get all of my vairables ready including overiding operators. Tought me more about planning projects so that it becomes much easier when beginning the code and starting development.
 
 ![image](https://github.com/user-attachments/assets/0e77bd79-0813-4620-bf6a-411364832169)
+
+**DAY 3 - Imporvement**
+
+Made some good progress today learning the language and creating has been a breeze thus far. Created the board state and game state so am ready to put in the pieces onto the board now.
+
+![image](https://github.com/user-attachments/assets/e3705c48-e974-4732-9097-42e0dadb234c)

@@ -17,3 +17,10 @@ This day I set up the directions of chess piece movements and get all of my vair
 Made some good progress today learning the language and creating has been a breeze thus far. Created the board state and game state so am ready to put in the pieces onto the board now.
 
 ![image](https://github.com/user-attachments/assets/e3705c48-e974-4732-9097-42e0dadb234c)
+
+**DAY 4 - The movement**
+
+Added the main movement functions and hgihlighting functionality. Was able to also make sure that the cursor was highlighted based on the player's turn.
+
+![video](https://github.com/user-attachments/assets/78440e72-b4e1-460b-9bad-86e5e3463583)
+

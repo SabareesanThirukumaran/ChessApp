@@ -24,3 +24,10 @@ Added the main movement functions and hgihlighting functionality. Was able to al
 
 ![video](https://github.com/user-attachments/assets/78440e72-b4e1-460b-9bad-86e5e3463583)
 
+**Day 5 - Completed**
+
+Completed the entirety of the main chess functionality. All that is left is smaller functions such as En Passant, 50 Rule Draw Move, esc...
+
+![image](https://github.com/user-attachments/assets/ca0513d0-22fe-493f-8f43-1595baecb91a)
+
+Entire Project : Credit to OttoBotCode on Youtube
